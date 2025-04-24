@@ -4,9 +4,9 @@
  OBCSfixTopo=.FALSE.,
 #
  OB_Jsouth= 240*1,
- OB_Iwest = 360*1,
- OB_Jnorth= 240*360,
- OB_Ieast = 360*240,
+ OB_Iwest = 156*1,
+ OB_Jnorth= 240*156,
+ OB_Ieast = 156*240,
 #
  useOBCSsponge = .TRUE.,
 #
