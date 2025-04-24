@@ -37,7 +37,7 @@
  &PARM04
  usingSphericalPolarGrid=.TRUE.,
  delX=240*0.083333,
- delY=360*0.0625,
+ delY=156*0.0625,
  xgOrigin=-135,
  ygOrigin=29,
  delR = 10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.01,
@@ -50,7 +50,7 @@
 
 # Input datasets
  &PARM05
- bathyFile = 'CA_bathymetry.bin',
+ bathyFile = 'Gulf_of_Mexico.bin',
  hydrogThetaFile = 'THETA_IC.bin',
  hydrogSaltFile = 'SALT_IC.bin',
  uVelInitFile = 'UVEL_IC.bin',
